@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.237,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Папка Ильи\MonsterKiller\Game.cpp=D:\Папка Ильи\MonsterKiller\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.411,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Папка Ильи\MonsterKiller\Game.dfm=D:\Папка Ильи\MonsterKiller\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Папка Ильи\MonsterKiller\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.dfm=D:\Папка Ильи\MonsterKiller\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.dfm=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.h=D:\Папка Ильи\MonsterKiller\MainMenu.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.cpp=D:\Папка Ильи\MonsterKiller\MainMenu.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Папка Ильи\MonsterKiller\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\MainMenu.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Папка Ильи\MonsterKiller\Game.h=D:\Папка Ильи\MonsterKiller\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=D:\Папка Ильи\MonsterKiller\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
